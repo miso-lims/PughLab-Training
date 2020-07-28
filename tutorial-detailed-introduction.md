@@ -6,11 +6,7 @@ title: Introduction to MISO
 ---
 
 
-<video controls>
-    <source src="presentations/miso_intro.mp4" type="video/mp4">
-</video>
-
-[Download the PDF]({{ '/presentations/intro.pdf' | prepend: site.baseurl }})
+(Video and slides to be added later)
 
 
 <a href="index">Home</a> | <a href="tutorial-detailed-admin-tasks">Administration Tasks</a> >

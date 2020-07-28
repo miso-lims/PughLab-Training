@@ -6,14 +6,6 @@ is-detailed: true
 
 ---
 
-<video controls>
-    <source src="presentations/miso_samples.mp4" type="video/mp4">
-</video>
-
-[Download the PDF]({{ '/presentations/samples.pdf' | prepend: site.baseurl }})
-
-
-
 <div id="toc">
 Table of Contents
 <ol>
